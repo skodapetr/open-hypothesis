@@ -1,1 +1,1 @@
-# open-hypothesis
+# Open hypothesis
